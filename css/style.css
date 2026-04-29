@@ -208,6 +208,8 @@ section .container > p {
 .services-grid,
 .pricing-grid,
 .core-values {
+/* Service Grid */
+.service-grid {
     display: grid;
     gap: 22px;
 }
